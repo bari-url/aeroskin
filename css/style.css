@@ -4870,7 +4870,7 @@ padding: 30px 0 ;
     transform: translateX(-500%);
   }
  
-  .select2-hidden-accessible {
+/*   .select2-hidden-accessible {
     display: block;
     width: 100%;
     padding: 15px 16px;
@@ -4880,4 +4880,4 @@ padding: 30px 0 ;
     margin-bottom: 15px;
     border: 1px solid #dd06b1;
   }
-  
+   */
